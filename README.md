@@ -121,7 +121,9 @@
 
 ---
 
+```
 ## 프로젝트 파일 구조
+
 Transporation_Project/
 ├─ content/
 │  ├─ 24년_서울교통공사_역별_일별_시간대별_승하차인원.csv
@@ -130,3 +132,4 @@ Transporation_Project/
 ├─ scripts/
 │  └─ process_and_merge.py
 └─ README.md
+```
